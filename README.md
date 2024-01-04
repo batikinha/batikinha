@@ -29,6 +29,12 @@
 <a href="https://www.linkedin.com/in/batikinha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
+
+### Support me:
+<div align="center"> 
+<a href="https://www.buymeacoffee.com/batikinha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="160"></a>
+
+  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{batikinha}/count.svg" /></p> 
