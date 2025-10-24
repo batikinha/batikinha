@@ -39,21 +39,19 @@
   </a>
 </div>
 
-<!-- Support
+<!-- Support -->
 <h3>Support me:</h3>
 <div align="center">
   <a href="https://www.buymeacoffee.com/batikinha" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="160">
   </a>
 </div>
- -->
 
 <!-- Visitors Counter -->
-<div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fbatikinha&s=40&c=a600ff&bg=00000000&no=2&ff=digi&tb=&ta=" alt="visits">
-</div>
+<p align="center">
+<br><b>Visitors Count</b><br>
+  <img src="https://komarev.com/ghpvc/?username=batikinha&color=a600ff&style=flat-square" alt="Profile Views"/>
+</p>
 
 <!-- Footer -->
 <div align="center">
