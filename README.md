@@ -2,34 +2,36 @@
   <!-- Header com efeito -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=bf77f6&reversal=false"/>
 
-  <!-- Texto animado -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=bf77f6&center=true&random=false&width=870&height=100&lines=Hello!+I'm+Batika!;I'm+17+years+old.;I'm+a+developer+from+Brazil!" alt="Typing SVG" />
-  </a>
+ <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=bf77f6&center=true&vCenter=true&random=false&width=870&height=100&lines=Hello!+I'm+Maria+Clara!;I'm+a+cybersecurity+student." alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=batikinha&show_icons=true&theme=dracula" width="420" alt="Batika's GitHub stats" />
 </div>
 
 <!-- Main Skills -->
-<h3>Main skills:</h3>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">&nbsp;
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">&nbsp;
+<h3>Main Skills:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pentest-%23FF5733?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Pentest"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Red_Team-%23E63946?style=for-the-badge&logo=metasploit&logoColor=white" alt="Red Team"/>
+  <img src="https://img.shields.io/badge/SIEM-%230072B3?style=for-the-badge&logo=elastic&logoColor=white" alt="SIEM"/>
+  <img src="https://img.shields.io/badge/Malware_Analysis-%23008000?style=for-the-badge&logo=malwarebytes&logoColor=white" alt="Malware Analysis"/>
+  <img src="https://img.shields.io/badge/Git_&_GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="Git & GitHub"/>
 </p>
 
 <!-- Studying -->
 <h3>Studying in this moment:</h3>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js">&nbsp;
-  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB">&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">&nbsp;
-  <img src="https://img.shields.io/badge/API%20REST-0D1117?style=for-the-badge&logo=api&logoColor=white" alt="API REST">&nbsp;
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-%230072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/ELK_Stack-%23F05033?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK Stack"/>
+  <img src="https://img.shields.io/badge/Wireshark-%23008FFF?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Network_Traffic-%233399FF?style=for-the-badge&logo=network-manager&logoColor=white" alt="Network Traffic"/>
 </p>
+
 
 <!-- Contact -->
 <h3>Contact me:</h3>
