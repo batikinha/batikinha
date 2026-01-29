@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=bf77f6&center=true&vCenter=true&random=false&width=870&height=100&lines=Hello!+I'm+Maria+Clara!;I'm+a+cybersecurity+student." alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=batikinha&show_icons=true&theme=dracula" width="420" alt="Batika's GitHub stats" />
-</div>
-
 <!-- Main Skills -->
 <h3>Main Skills:</h3>
 <p align="center">
