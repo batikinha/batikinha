@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Pentest-%23FF5733?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Pentest"/>
   <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Red_Team-%23E63946?style=for-the-badge&logo=metasploit&logoColor=white" alt="Red Team"/>
+  <img src="https://img.shields.io/badge/Blue_Team-Defense%20%26%20Monitoring-1E90FF?style=for-the-badge" alt="Blue Team"/>
   <img src="https://img.shields.io/badge/SIEM-%230072B3?style=for-the-badge&logo=elastic&logoColor=white" alt="SIEM"/>
   <img src="https://img.shields.io/badge/Malware_Analysis-%23008000?style=for-the-badge&logo=malwarebytes&logoColor=white" alt="Malware Analysis"/>
   <img src="https://img.shields.io/badge/Git_&_GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="Git & GitHub"/>
